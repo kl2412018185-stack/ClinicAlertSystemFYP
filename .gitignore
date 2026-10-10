@@ -1,0 +1,6 @@
+target/
+*.class
+.nb-gradle/
+build/
+dist/
+.idea/
